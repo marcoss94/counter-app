@@ -1,0 +1,26 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 32px;
+  transition: 222ms ease-in-out;
+}
+
+.button-click {
+  background-color: #66cccc;
+}
+.button-click:hover {
+  background-color: #39acac;
+}
+
+.button-reset {
+  background-color: #d83c31;
+}
+.button-reset:hover {
+  background-color: #f55753;
+}
